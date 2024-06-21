@@ -11,8 +11,9 @@
 ### :man_technologist: About Me :
 
 I'm a Fullstack web developer
-- Strong self-starter
-- Strong communicator
+- Best practices
+- Strong communication & collaboration
+- Fast progress
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
